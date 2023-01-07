@@ -3,7 +3,6 @@
 </p>
 
 <br>
-
 <p align='center'>
 <a href="https://vitesse.netlify.app/">Live Demo</a>
 </p>
