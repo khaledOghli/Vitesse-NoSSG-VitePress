@@ -60,7 +60,7 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 
 ## Dropped Features from [Vitesse](https://github.com/antfu/vitesse)
 
-- ~~Layouts~~
+- ~~SSG~~
 
 ## Pre-packed
 
