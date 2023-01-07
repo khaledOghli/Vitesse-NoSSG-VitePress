@@ -4,6 +4,7 @@ import Previewer from 'virtual:vue-component-preview'
 import router from './router'
 import App from './App.vue'
 
+import 'nprogress/nprogress.css'
 import '@unocss/reset/tailwind.css'
 import './styles/main.css'
 import 'uno.css'
