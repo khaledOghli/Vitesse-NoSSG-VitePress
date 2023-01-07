@@ -2,10 +2,6 @@
   <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
 </p>
 
-<h5 align='center'>
-<b>Custom version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b> Without SSG ,Vitepress added
-</h5>
-
 <br>
 
 <p align='center'>
