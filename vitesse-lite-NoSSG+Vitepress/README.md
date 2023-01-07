@@ -3,7 +3,7 @@
 </p>
 
 <h5 align='center'>
-<b>Custom version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
+<b>Custom version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b> Without SSG ,Vitepress added
 </h5>
 
 <br>
